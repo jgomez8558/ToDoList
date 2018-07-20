@@ -1,1 +1,21 @@
 /* You can add global styles to this file, and also import other style files */
+body  {
+        background-color: rgb(141, 141, 148);
+}
+
+i:hover  {
+            opacity: 0.5;
+}
+
+.completeTask  {
+            text-decoration: line-through;
+            opacity: 0.5;
+}
+
+.fa-backspace  {
+                  color:red;
+}
+
+.fa-pencil-alt  {
+                  color: orange;
+}
